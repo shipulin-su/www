@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Семя Шипулины"
+  name     : #"Семя Шипулины"
   avatar   : #"/assets/images/bio-photo.jpg"
   bio      : #"My awesome biography constrained to a sentence or two goes here."
   location : "Россия, Екатеринбург"
@@ -70,7 +70,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shipulin-su/www"
-
 
 footer:
   links:
