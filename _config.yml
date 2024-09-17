@@ -16,7 +16,7 @@
 title: Шипулины
 email: mail@shipulin.su
 description: >- # this means to ignore newlines until "baseurl:"
-  Сайт семьи Шипулины из Екатеринбурга
+  Сайт семьи Шипулины
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -59,11 +59,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name     : "Семя Шипулины"
+  avatar   : #"/assets/images/bio-photo.jpg"
+  bio      : #"My awesome biography constrained to a sentence or two goes here."
+  location : "Россия, Екатеринбург"
   links:
-    - label: "Website"
+    - label: "alexander.shipulin.su"
       icon: "fas fa-fw fa-link"
       url: "https://alexander.shipulin.su"
     - label: "GitHub"
@@ -73,7 +74,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "alexander.shipulin.su"
       icon: "fas fa-fw fa-link"
       url: "https://alexander.shipulin.su"
     - label: "GitHub"
